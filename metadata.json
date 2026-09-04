@@ -1,0 +1,6 @@
+{
+  "name": "ALTREX CODE",
+  "description": "ALTREX CODE: Elite AI Coding IDE with Cyberpunk UI, 5 Built-in Themes, Persistent Memory System, Universal Language Engine, and Edge Deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

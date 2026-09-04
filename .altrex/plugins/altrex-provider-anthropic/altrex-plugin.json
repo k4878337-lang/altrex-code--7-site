@@ -1,0 +1,12 @@
+{
+  "name": "altrex-provider-anthropic",
+  "version": "1.0.0",
+  "description": "Anthropic Claude provider for ALTREX CODE",
+  "author": "ALTREX Community",
+  "type": "provider",
+  "entry": "index.js",
+  "config": {
+    "apiKey": "",
+    "model": "claude-sonnet-4-20250514"
+  }
+}
